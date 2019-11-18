@@ -225,3 +225,12 @@ os = "macos"
     [[HelloWorldFortran.download]]
     sha256 = "bb15bdc19c88bedc984c4603640138c492b9aae957eab521bb8c3fc46c2ec71f"
     url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.0.0+0/HelloWorldFortran.v1.0.0.x86_64-apple-darwin14-libgfortran3.tar.gz"
+[[HelloWorldFortran]]
+arch = "x86_64"
+git-tree-sha1 = "9629391a483faa61cd3c163bd804ccea68545a8a"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "6249d0532d03a1cbb41267998529f4687563a67c0fee499c641a1b69103b2c17"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.0.0+0/HelloWorldFortran.v1.0.0.x86_64-apple-darwin14-libgfortran4.tar.gz"
