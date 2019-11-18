@@ -58,3 +58,13 @@ os = "linux"
     [[HelloWorldFortran.download]]
     sha256 = "994748089dd56bc6a2d4bf33b2e3abe279d69d4ef1b06e297e28081b7f9d20bb"
     url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.0.0+0/HelloWorldFortran.v1.0.0.aarch64-linux-musl-libgfortran5.tar.gz"
+[[HelloWorldFortran]]
+arch = "armv7l"
+git-tree-sha1 = "043bef3728ce6d8b384412a716a7e7ccff1f947d"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "b0e14fb3fbb6822a103dec7d7cb1d21af922710d67937a5fb53ad1927f9b42b1"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.0.0+0/HelloWorldFortran.v1.0.0.arm-linux-gnueabihf-libgfortran3.tar.gz"
