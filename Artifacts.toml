@@ -1,384 +1,477 @@
 [[HelloWorldFortran]]
 arch = "aarch64"
-git-tree-sha1 = "4cd4f2ac735eaf6f3ba39b4cc6fe3a9bcb098594"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[HelloWorldFortran.download]]
-    sha256 = "c864eef082e75a4cbe51a7672efcf61da62b010ba4d013c97484f5464f5b76d9"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.aarch64-linux-gnu-libgfortran3.tar.gz"
-[[HelloWorldFortran]]
-arch = "aarch64"
-git-tree-sha1 = "aac01afd57628db5613728d56c01f54d6c5a5c06"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[HelloWorldFortran.download]]
-    sha256 = "58b5f7a4ff80ca74f1deedca2e566a492825e6a1c6fdc90c7bcebc03bf329639"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.aarch64-linux-gnu-libgfortran4.tar.gz"
-[[HelloWorldFortran]]
-arch = "aarch64"
-git-tree-sha1 = "c0418a3dc467f1d01b3650d32a16da419dd84733"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[HelloWorldFortran.download]]
-    sha256 = "f27d203a024cc60f645bd32fea5529847a470c4f80564f86e3b019d8b4dfef18"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.aarch64-linux-gnu-libgfortran5.tar.gz"
-[[HelloWorldFortran]]
-arch = "aarch64"
-git-tree-sha1 = "8840abcc4f52b1b5fbd09789cc1fc745914616f5"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[HelloWorldFortran.download]]
-    sha256 = "6d82ee8b9e790ddf8dd5b9c7ed2e42f0aea8bc876559f4744263fb65846b87e2"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.aarch64-linux-musl-libgfortran3.tar.gz"
-[[HelloWorldFortran]]
-arch = "aarch64"
-git-tree-sha1 = "7f8e8b9516b0ea726fae9106a0a3731b370b34d4"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[HelloWorldFortran.download]]
-    sha256 = "247dff9b1fbd87855585f7392c047537615359e17df0734673fd1f57ac6453a0"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.aarch64-linux-musl-libgfortran4.tar.gz"
-[[HelloWorldFortran]]
-arch = "aarch64"
-git-tree-sha1 = "c07a1200aad5f1ca578fdec2babd0e4e8d933537"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[HelloWorldFortran.download]]
-    sha256 = "a08fed123f844a1b8c47b05f33927ead24278168151fe1c4ccf5450c03344964"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.aarch64-linux-musl-libgfortran5.tar.gz"
-[[HelloWorldFortran]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "a615791c757e51dac12dea99044f291cfcda30da"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[HelloWorldFortran.download]]
-    sha256 = "380ff0e965303f1e2ccdde2b0a84765c2784bf03228e03bec914d3110909d5d5"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
-[[HelloWorldFortran]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "3474df6dd8e35ed8859c278e6f051b0292b63dd6"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[HelloWorldFortran.download]]
-    sha256 = "4db964365099bff576ad1c5672e3c6ca55761d1d7564b2c05013c6ff85fddf47"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
-[[HelloWorldFortran]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "dc83ee8ade508c61cf8b78c97c658f271b9f161d"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[HelloWorldFortran.download]]
-    sha256 = "9efdd8e95dca86c6df786c5fee38585e432046afcadaf088ce268da21f696a1f"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
-[[HelloWorldFortran]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "b199c50b8d28b8e8aa7c044168ed654b1c36b1c9"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[HelloWorldFortran.download]]
-    sha256 = "bf456832baac12cdec6829948065957f2589d59081dfec3cb8e9776dda827029"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
-[[HelloWorldFortran]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "af3407d14532d053ea3bbd44804ef2be4913cc1e"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[HelloWorldFortran.download]]
-    sha256 = "8f972d4d8225674d923246c2bd119aa785f480b4e7f228054c931a1ee904dd23"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
-[[HelloWorldFortran]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "d438d312bb46ba03adec6b57eb45fd66878a7e58"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[HelloWorldFortran.download]]
-    sha256 = "4a0e1198fa504ec0835a889f43c40dc9c514b3c28acc0122411ba7dc4c4c57aa"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
-[[HelloWorldFortran]]
-arch = "i686"
-git-tree-sha1 = "037d859665718f7b8b208d1aef778a611aa4cd32"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[HelloWorldFortran.download]]
-    sha256 = "0cf0b29e08b17392f162fb0e1f8bd96347904870ca60db5e3a41f8887cefa63a"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.i686-linux-gnu-libgfortran3.tar.gz"
-[[HelloWorldFortran]]
-arch = "i686"
-git-tree-sha1 = "3e932df656f0f5432cb397ab83a1c9a5e966060c"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[HelloWorldFortran.download]]
-    sha256 = "7555a8cec4c1595bde39d32ba46b96ec2f8c3108db74fb5d7a0a80c5ac77cfb2"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.i686-linux-gnu-libgfortran4.tar.gz"
-[[HelloWorldFortran]]
-arch = "i686"
-git-tree-sha1 = "d49d6ccc28c63696718732de41adec2bd96cadb1"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[HelloWorldFortran.download]]
-    sha256 = "9ecc43df126838c5095608e79a39c00124c700541f2da473ddbe7b9754a1bc4a"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.i686-linux-gnu-libgfortran5.tar.gz"
-[[HelloWorldFortran]]
-arch = "i686"
-git-tree-sha1 = "32c312e0caa34d634abb54d40296b4aa3c3bf42f"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[HelloWorldFortran.download]]
-    sha256 = "bfd33c75dfa7db58c1e11eb9768360fe1d909352fdae0bab7deb94706909e5d9"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.i686-linux-musl-libgfortran3.tar.gz"
-[[HelloWorldFortran]]
-arch = "i686"
-git-tree-sha1 = "2bf33f53718e4c1c9a9a936f56285ef45b3ada28"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[HelloWorldFortran.download]]
-    sha256 = "2ffa3a98b2bd5a3ba8147a6563531525e7dfdd03d11c675b93757d80aefddba6"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.i686-linux-musl-libgfortran4.tar.gz"
-[[HelloWorldFortran]]
-arch = "i686"
-git-tree-sha1 = "8fe30d790644dbdd251b2e1d2dcbd5e2c1346dd9"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[HelloWorldFortran.download]]
-    sha256 = "c097cb5499cae8bb6a4e0750be701e51a594d65cd0ec5e1d486e08f86b961dd2"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.i686-linux-musl-libgfortran5.tar.gz"
-[[HelloWorldFortran]]
-arch = "i686"
-git-tree-sha1 = "5fc1934356374011e1cc88d74b268ffa2a9255cb"
-libgfortran_version = "3.0.0"
-os = "windows"
-
-    [[HelloWorldFortran.download]]
-    sha256 = "ea5c2309b0531c4ea1277d822b97d4c1512258c748e26d8a2fce20bf579a4b59"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.i686-w64-mingw32-libgfortran3.tar.gz"
-[[HelloWorldFortran]]
-arch = "i686"
-git-tree-sha1 = "dbf68d96a68f57fff73f10a1ca2fd2f8b279ef97"
-libgfortran_version = "4.0.0"
-os = "windows"
-
-    [[HelloWorldFortran.download]]
-    sha256 = "f5698b81606ced6a3e4dd0a5e210f7a71b6898fb119b19b0f3ec0a6be84055be"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.i686-w64-mingw32-libgfortran4.tar.gz"
-[[HelloWorldFortran]]
-arch = "i686"
-git-tree-sha1 = "4ba113bc528adc32f0304680d8dd0ee90ac7b6c4"
-libgfortran_version = "5.0.0"
-os = "windows"
-
-    [[HelloWorldFortran.download]]
-    sha256 = "4ba57d3ea378c888cc388086db13784c599c3930199ae982e7afbe585d982226"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.i686-w64-mingw32-libgfortran5.tar.gz"
-[[HelloWorldFortran]]
-arch = "powerpc64le"
-git-tree-sha1 = "c90f5b709affe166a22486c4201ccaee9ab119d1"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[HelloWorldFortran.download]]
-    sha256 = "b3e5625955235ec69adc5de945ad3bc445f4da9466210a479c877bf7bd4b64ea"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
-[[HelloWorldFortran]]
-arch = "powerpc64le"
-git-tree-sha1 = "40246f121c32afe4983279590e0bd41c063e4980"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[HelloWorldFortran.download]]
-    sha256 = "c7da8071835568c77a0e39e85e318bf6bcc88bcaf596bb98f140a9450e68e879"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
-[[HelloWorldFortran]]
-arch = "powerpc64le"
-git-tree-sha1 = "cfece2d0e44d3a1663f68d027e02458638cba3db"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[HelloWorldFortran.download]]
-    sha256 = "f990b6f4e2b294f0300b80002132ae92e131e2a879080d48aa127bbce8110bf4"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
-[[HelloWorldFortran]]
-arch = "x86_64"
-git-tree-sha1 = "83a4dfa610e07e3d76c77c4ae01de67923b5f5da"
-libgfortran_version = "3.0.0"
-os = "macos"
-
-    [[HelloWorldFortran.download]]
-    sha256 = "40d8f9abfe2ee6d0459033e4c8a8e1621f51214ccc0af433547dbcc3667ebfe1"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.x86_64-apple-darwin-libgfortran3.tar.gz"
-[[HelloWorldFortran]]
-arch = "x86_64"
-git-tree-sha1 = "68c61b9e1e2ac1d074a1aaed3076c43f2a58a7cf"
-libgfortran_version = "4.0.0"
-os = "macos"
-
-    [[HelloWorldFortran.download]]
-    sha256 = "62ef0f0f0f5393cb0858a08222ab8f0f41e6e756a87c5432e9056590ae6c4c01"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.x86_64-apple-darwin-libgfortran4.tar.gz"
-[[HelloWorldFortran]]
-arch = "x86_64"
-git-tree-sha1 = "aa093cc5c1bf06e8b8d51bcb4ea85a06eeb64c24"
+git-tree-sha1 = "206d71a071161428daceacca2c18b5d08817e9ec"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[HelloWorldFortran.download]]
-    sha256 = "8da6abedcf026f72b13fa3da8e067ea4c1e8f5039bb685c2b8536aa75a846d9c"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "5844e031f523165a5c8241524ad76b1aa8a611426b3d99886ee0573f9fc21feb"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[HelloWorldFortran]]
-arch = "x86_64"
-git-tree-sha1 = "31023558f3d7b4b436dccfbfe6219cb3de6fa8f7"
+arch = "aarch64"
+git-tree-sha1 = "6bdec4e2f5cc05fed3c32330accec24b941bb882"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[HelloWorldFortran.download]]
-    sha256 = "15b0ad7753a2849da20445cbb28488f68023664d430f07d5f4b0db529f9e566a"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "02d277c70d46cc46d7ebcd531a1221731344f5b9483fea2a63fbc205d96775cc"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.aarch64-linux-gnu-libgfortran3.tar.gz"
 [[HelloWorldFortran]]
-arch = "x86_64"
-git-tree-sha1 = "dd2b261f792fdbee1827b1fc66e70a3e79fe9bc5"
+arch = "aarch64"
+git-tree-sha1 = "ffe0ce5ec4c6dd544dcd7ad7e3cd9932db70d19e"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[HelloWorldFortran.download]]
-    sha256 = "40e5cf8294a9931297bee54c3b526f4535a42ede887a947f871e7f9471d7b975"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "d0f4147c3452945da8f1e43b47c1a930bfdd512e5cdc5f564534c1c1e8ef9bad"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.aarch64-linux-gnu-libgfortran4.tar.gz"
 [[HelloWorldFortran]]
-arch = "x86_64"
-git-tree-sha1 = "f49d01301b3e5badf5ef841edc791498e4385a4a"
+arch = "aarch64"
+git-tree-sha1 = "ae40eb05ab6bd6784ad94a0daf7ef25aef60f85b"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[HelloWorldFortran.download]]
-    sha256 = "97ad4a23b0df215f2afb066a79fb02ebf23e0a5974fb6a67a7dd5db943fd2e42"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "efaf73591d408e113444e56987cf633fcb6891c61fab8b809fdd714f0a5e9567"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[HelloWorldFortran]]
-arch = "x86_64"
-git-tree-sha1 = "1eb6f112f1cfa07cb65a755ec8e930ee5a3bed02"
+arch = "aarch64"
+git-tree-sha1 = "f76599940cbc5db63a7dcb43c2c34a58c8cafe25"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[HelloWorldFortran.download]]
-    sha256 = "89fbf19bf37503191063f9df3f244ca9c9c62ad8250469f6b6328acd00b27498"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.x86_64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "348f7bfe4f93dd164a172873f26f23a61338abb48e4e775458836c41301cf97f"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.aarch64-linux-musl-libgfortran3.tar.gz"
 [[HelloWorldFortran]]
-arch = "x86_64"
-git-tree-sha1 = "3633ad7e0929706598b3f8fa3b4ef321de387296"
+arch = "aarch64"
+git-tree-sha1 = "f4e65ba7cd6d675d269c93afce8f777429531a9c"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[HelloWorldFortran.download]]
-    sha256 = "91d697f541971885b514425e4f2b28c7a12e4e43971e7fd9fc7940597ab8de7a"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.x86_64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "ea6f27ee771221edb6a0e2583599a431f758c055e673c960773903269c60c976"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.aarch64-linux-musl-libgfortran4.tar.gz"
 [[HelloWorldFortran]]
-arch = "x86_64"
-git-tree-sha1 = "6902c392ae523c741e6bcdc7219bf049cb616498"
+arch = "aarch64"
+git-tree-sha1 = "3e48539296b7dfd8c62d48eae547ce960b4ae35c"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[HelloWorldFortran.download]]
-    sha256 = "2e63d6c2a3b4b7c426ba0be7009ef41cebd2b19f561476e80e63dce3a2d57686"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.x86_64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "2546073bd265d8e9ea9fe26709cc8c041cf9417e9e1b1f7a5e5ac37e8500f401"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.aarch64-linux-musl-libgfortran5.tar.gz"
 [[HelloWorldFortran]]
-arch = "x86_64"
-git-tree-sha1 = "93e7a6ce57258bddea36bce39faea4df81d808f3"
-libgfortran_version = "3.0.0"
-os = "freebsd"
-
-    [[HelloWorldFortran.download]]
-    sha256 = "f997592dbfadcb58a7dcfa84a35cfebb16bd22bf1421306e2bf05e504ec23db0"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
-[[HelloWorldFortran]]
-arch = "x86_64"
-git-tree-sha1 = "39928324acd4dc586a664ef70bced10f77ab8746"
+arch = "aarch64"
+git-tree-sha1 = "35ab011aa36ed15cb0cd7ab4aa6a8414450b8fa1"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[HelloWorldFortran.download]]
-    sha256 = "10abecf1384af38f78f6ff369ce219da8804620249ad24ffb15525d474ba290e"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+    sha256 = "5259a8b82d305217bac6d2c408dccf45f876180762cdc39e75d28132f8abe028"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.aarch64-unknown-freebsd-libgfortran4.tar.gz"
 [[HelloWorldFortran]]
-arch = "x86_64"
-git-tree-sha1 = "79d8356c4fbdb623be6f8e53d14b538319ce6363"
+arch = "aarch64"
+git-tree-sha1 = "a3ec609b307f643578d431ce40ff471147f03d22"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[HelloWorldFortran.download]]
-    sha256 = "4e007625015a1286ce4eb24e2ec68c4e75f0b04775f28dcc497cb5ccdb989048"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "b5bbe1851915c45a11d5edc5d424569eeb55fafbec8ba090b18b4be4d9d63949"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.aarch64-unknown-freebsd-libgfortran5.tar.gz"
 [[HelloWorldFortran]]
-arch = "x86_64"
-git-tree-sha1 = "a1a717257ad1d24319b981b4865758f75df8d2bf"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c79ddeab37bfd5283a87f89aca85658f0304d066"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "efacfb8fd8ce570c2d8f97e049e0bf1c7a6c54b3f2757b7374dfbf87923dc02b"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[HelloWorldFortran]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "000538ca60a4015c6870e44cc21c75eeff277898"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "a297db750909b61f51b8f69873da1bc2846a36d494d557f3c8100e8334b69dd1"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[HelloWorldFortran]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "263d3fabeea642f984876c40c40690488f3bc579"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "f38d25e951bc77e29fc477cc360ed515a914a305a91005670119c139f0bdb6e8"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[HelloWorldFortran]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "1c167c078805bb60c0a3613851b315fe6f2773dd"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "1ab80b063603d1b5e615fef3cc0255ae268d377e53dad9ef81606e0dc73ec63d"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+[[HelloWorldFortran]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "391624fd933eb9a7bdc01054d753ea6b85319bb9"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "9f3b537c441fc7fee60824a4cde4d175cf20e5db7b3dccb4be811c9a0ebdaa09"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+[[HelloWorldFortran]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "346c6285ecf74067d8fef26888afbf831640868a"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "a55aa1535c54a5fea26c54d6795f54d5415ec071550e5508dbfe7c8ddb4c51b2"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[HelloWorldFortran]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "980b6fd51d71cd6e3f7284979a3301d69f5064cc"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "67ec8c548326c0627d835267f32d7ca1c87c4ca4ff6ec3c7d079aeb3a35ad727"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[HelloWorldFortran]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "848a15ee04e4bed0f698572082695b283356c9b0"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "05d0df8da21c3f4c393c86ab825652362c55844e1d9c18c850ea049ee6a5b5fd"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[HelloWorldFortran]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "0d3b96abddf2ad1911cde55810737413afcf469f"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "314f14bb724332f8a59f0cb7a3cfeb742e0e55bb1b7001cc063ce8119acfd556"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[HelloWorldFortran]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "909d99cf590e25afc485f457376278464a2154a0"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "aed928cd02bb497d5b4785174d947397370b23e40d23b57d3c9919c4924a3d38"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[HelloWorldFortran]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "0213676b5ef7c550c270698e39a5b4a248f02835"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "1e29c8833c6d0e442543ba8fdcfbada398237c1779f3760cf71bd35936f92e90"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[HelloWorldFortran]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "281bf7552c2e20be941f42e16f28360b5e7358de"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "8db1b98ebe6740ddbab9e9905eacb3fac88423c6608d5dcb61ac17e0b17dc7e5"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[HelloWorldFortran]]
+arch = "i686"
+git-tree-sha1 = "1da47d1d4292c53802633a0e40efd2f432f67a7e"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "8128076696d92502275008827ce9c748a6c2611d3eb768da950397b9c0612e34"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.i686-linux-gnu-libgfortran3.tar.gz"
+[[HelloWorldFortran]]
+arch = "i686"
+git-tree-sha1 = "f0c4b7fc532ec940eb147bfd717e4dce3e86c57c"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "cc0a4b48baf73ec1b9d95f83fdd2969e5755f351dd64de4d58fe3f68902ee96f"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.i686-linux-gnu-libgfortran4.tar.gz"
+[[HelloWorldFortran]]
+arch = "i686"
+git-tree-sha1 = "f895de816c356695eeeb705950c15cd16f796278"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "6d25939a1fb64db32771a9ce9e4aa32cee5dfaa692d3959a39b0772f21f07b6e"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.i686-linux-gnu-libgfortran5.tar.gz"
+[[HelloWorldFortran]]
+arch = "i686"
+git-tree-sha1 = "5f68808c2e3f02bff545beec4a68a53eefc6165e"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "5e6a143c8807ba5e6134a7a142baf4de7f37feca7ff2cc672172a5a44b8f9fa3"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.i686-linux-musl-libgfortran3.tar.gz"
+[[HelloWorldFortran]]
+arch = "i686"
+git-tree-sha1 = "e831715bdb177ad1550fc9a8f56f06d55572f663"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "ba88ed5bb94e825775c8ba68f9264d4a6c4b8b13ee7d9ca52a5d4849010c92ba"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.i686-linux-musl-libgfortran4.tar.gz"
+[[HelloWorldFortran]]
+arch = "i686"
+git-tree-sha1 = "6abc31fcab909ed61d0dd563ab3a3b45cef5f311"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "54ac4e66f77c380beec0537c7758024892892c00c9343fede386e7f3c2f303a9"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.i686-linux-musl-libgfortran5.tar.gz"
+[[HelloWorldFortran]]
+arch = "i686"
+git-tree-sha1 = "4054d77b2e1d36b696219c58fe5c9cff1d4a2e4a"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[HelloWorldFortran.download]]
-    sha256 = "46357205f0d8c6f499682cf88c6236ee0120b3fa7ae4731298e977a4f91540d4"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "f175eae414434998c2366784e03b6611446804429fd6309aebdfeaa478c4ba55"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.i686-w64-mingw32-libgfortran3.tar.gz"
 [[HelloWorldFortran]]
-arch = "x86_64"
-git-tree-sha1 = "fdfc30938017f051ecb5976caccaac1f6d0b426d"
+arch = "i686"
+git-tree-sha1 = "c56e74487cc81e9bf27c1f33bcd6e034b5b0c604"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[HelloWorldFortran.download]]
-    sha256 = "604301e4d9dcefa6aa436993134833c2f73b8d6408400fa8de9bb55de6c65df6"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "48cff9c13f56d7ea1d7c2bafd133bc185cd20d8786a110c781aa15f8520ebb30"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.i686-w64-mingw32-libgfortran4.tar.gz"
 [[HelloWorldFortran]]
-arch = "x86_64"
-git-tree-sha1 = "5809330e1012eefae194643cf4a24e9e67e0181d"
+arch = "i686"
+git-tree-sha1 = "7aaae185122553b8f3ebca501e0ca86e50ee284e"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[HelloWorldFortran.download]]
-    sha256 = "e178381abc367c7c69cb395246629509584a3cd08130fa6b734b3ebdd749e6dd"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.0+0/HelloWorldFortran.v1.1.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "e8ca7210384b34d83f9a57a1225c409ba824c5308a4c082f01585d58d693594a"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.i686-w64-mingw32-libgfortran5.tar.gz"
+[[HelloWorldFortran]]
+arch = "powerpc64le"
+git-tree-sha1 = "8af8878af320cfd6e75f27a34380bc9379c8d6f8"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "5a3c29a9d96d14a20eb12b116f58cb0d4c46e739c4406bb52f6fd67e73b4810e"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[HelloWorldFortran]]
+arch = "powerpc64le"
+git-tree-sha1 = "156ffc884c0cfcd421bfa9cf97e48461471bf23c"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "6990b911f17bfce346a4a9a57e3425c6c1d91f486e5fdc902e1a0819ce142ba5"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[HelloWorldFortran]]
+arch = "powerpc64le"
+git-tree-sha1 = "ed0c850e02a8363d99e8adab109d32054f1ef323"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "096122baa6acf44702b9df793708cde48b617ab11d7d2666a761e49fbc692a1a"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[HelloWorldFortran]]
+arch = "x86_64"
+git-tree-sha1 = "622f0205c376726084e860dc35f9fcd7dc88c652"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "6a2e92071962155241b6e1b5a94675ce9b8451aeaaf14f15c2f8c7dd3a6fde86"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[HelloWorldFortran]]
+arch = "x86_64"
+git-tree-sha1 = "9d805491ad375c80aaeb073dd4dd86d493e18045"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "2362fd717f711137d51f4176fd1dddacd58355a9b353a80ec2d48a52be221512"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[HelloWorldFortran]]
+arch = "x86_64"
+git-tree-sha1 = "e4ec7b345729505caa1b93cf21ed65c3ecf01a66"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "bad8513b662d1ad9a30300d0b10f2b64736639ac3d6d692e47e187aa014aeee7"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[HelloWorldFortran]]
+arch = "x86_64"
+git-tree-sha1 = "02de9c99656ea5db57100a6db9d0a70fbf30c369"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "eb6b0d54387ccf89e7d9c843e52b37b4df7dbbc8e14040b401ee73d42e10547c"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[HelloWorldFortran]]
+arch = "x86_64"
+git-tree-sha1 = "3d25ee2e989342d10cae0666d32c30c36fb9a1dd"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "ee4126bbf8a09e98e20e42d56fc6e11102c1f9d9c45ccfebb75e8f4815a28b4f"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[HelloWorldFortran]]
+arch = "x86_64"
+git-tree-sha1 = "41106ae6baf5351484a8a6a38fba96c56f5220eb"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "d3ad000635d5359ce9e1de64eeed01d97c471150062aeb44d003cace863e64f7"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[HelloWorldFortran]]
+arch = "x86_64"
+git-tree-sha1 = "0941202fc7a5b9ad3be112b864e3033a5c9b3146"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "9df6ac366fb2aec632dd3e369e246fe1f38c69bd83ba11b91c22581c031984ad"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.x86_64-linux-musl-libgfortran3.tar.gz"
+[[HelloWorldFortran]]
+arch = "x86_64"
+git-tree-sha1 = "e22c47386eda51cc1827401c28f4cf7a9a4d756a"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "55921fd804d9b7733c3c97f615d0869188521dcbc59d04f74ce51a35f46d72e1"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.x86_64-linux-musl-libgfortran4.tar.gz"
+[[HelloWorldFortran]]
+arch = "x86_64"
+git-tree-sha1 = "d4535ef3a36c82b87c1a83edb233930928179f5d"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "2e18e3469270db69c8d3457452b890545baa8d989e659f51db9cfe4e06a26e8c"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.x86_64-linux-musl-libgfortran5.tar.gz"
+[[HelloWorldFortran]]
+arch = "x86_64"
+git-tree-sha1 = "8dc073fa10f1e6654907a640362228d31879032f"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "91afa0f3474c75964874ed77abe055f54a6087af153e60871bce51b76afcd66e"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[HelloWorldFortran]]
+arch = "x86_64"
+git-tree-sha1 = "8f07ea2bdd9c3d73635ef1a4c346e28c66482f84"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "ee0732cfc20f75acba7804aeb2fb459427080b15d623c8aac49c8c3a38544892"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[HelloWorldFortran]]
+arch = "x86_64"
+git-tree-sha1 = "416bbaab6f0aaedb5a240b18f0e608667db9f783"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "5151d4b3cb42982c37ad2af3d1901cf8b16d3e254946a5b4f55f9293bbbdf87c"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[HelloWorldFortran]]
+arch = "x86_64"
+git-tree-sha1 = "dbd1286e3aa741fbc902b875132cad1f6a4ecedd"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "7286478bebd53d127a9d729d0dff03d717d642aed5de56bb401eff54939156f8"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[HelloWorldFortran]]
+arch = "x86_64"
+git-tree-sha1 = "dcd6acf7ed591b4027ca1a9638656394d233dc4f"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "918d0092281420bb5a0e3c106ad6e25c20dbdb0855fa0191bdb25d998a2c79e5"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[HelloWorldFortran]]
+arch = "x86_64"
+git-tree-sha1 = "99c48a74a739324816223f528223f4116784d5e8"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[HelloWorldFortran.download]]
+    sha256 = "b2548ebe05d6ea862d7b028c1e5389f0df4586c8ab883481fe549e8cdf61ac05"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldFortran_jll.jl/releases/download/HelloWorldFortran-v1.1.1+0/HelloWorldFortran.v1.1.1.x86_64-w64-mingw32-libgfortran5.tar.gz"
